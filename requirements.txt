@@ -1,0 +1,24 @@
+# Core libraries
+fastapi==0.115.12
+uvicorn==0.34.3
+
+# Embedding & ML
+sentence-transformers==4.1.0
+torch>=2.7.0
+numpy>=2.3.1
+
+# FAISS for vector search
+faiss-cpu==1.11.0
+
+# Gradio for GUI
+gradio==5.37.0
+
+# Web scraping for preprocessing
+beautifulsoup4==4.13.4
+requests==2.32.3
+
+# Environment variable loading
+python-dotenv==1.1.1
+
+# Optional, for JSON validation
+pydantic==2.11.5
