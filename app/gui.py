@@ -49,7 +49,7 @@ demo = gr.Interface(
         gr.Textbox(label="Top Retrieved Chunks")
     ],
     title="RAG Pipeline",
-    description="Retrieval-Augmented Generation over Britannica data using Deepseek R1 and FAISS."
+    description="Retrieval-Augmented Generation over Britannica data using Llama-3.3-70B-Instruct-Turbo and FAISS."
 )
 
 if __name__ == "__main__":
