@@ -104,6 +104,20 @@ Launches a browser sandbox UI featuring interactive parameter control.
 python gui.py
 ```
 Open the local loop address displayed in your terminal console (e.g., http://127.0.0.1:7860).
+
+### Example 1: Precision Retrieval
+This view demonstrates the system identifying specific geological features related to glaciations based on user queries.
+
+
+<img width="1920" height="914" alt="Screenshot (379)" src="https://github.com/user-attachments/assets/af72c98e-052e-4c92-a98d-60d0e391dce0" />
+
+### Example 2: Contextual Analysis
+This view shows how the model synthesizes broader terrain descriptions while providing metadata-linked source chunks.
+
+
+<img width="1920" height="933" alt="Screenshot (378)" src="https://github.com/user-attachments/assets/739b9637-5470-4bca-9034-7377346e4914" />
+
+
 ### Option C: Production Enterprise API Gateway (FastAPI Server)
 Launches your industrial integration endpoints backed by unified server systems.
 ```
